@@ -4,15 +4,15 @@ Bem-vindo ao repositório do **Bikcraft**! Este projeto é uma página sobre bic
 
 ## 🚀 Tecnologias Utilizadas
 
-- **HTML5** → Estrutura da página  
-- **CSS3** → Estilização e responsividade  
+- **HTML5** → Estrutura da página
+- **CSS3** → Estilização e responsividade
 
 ## 🎨 Funcionalidades
 
-- ✅ Design responsivo para diferentes dispositivos 📱💻  
-- ✅ Estilização moderna e atraente  
-- ✅ Uso de **Grid Layout** para organização  
-- ✅ Semântica HTML para melhor acessibilidade  
+- ✅ Design responsivo para diferentes dispositivos 📱💻
+- ✅ Estilização moderna e atraente
+- ✅ Uso de **Grid Layout** para organização
+- ✅ Semântica HTML para melhor acessibilidade
 
 ## 📂 Como Usar
 
@@ -39,16 +39,16 @@ Bem-vindo ao repositório do **Bikcraft**! Este projeto é uma página sobre bic
 
 ## 💡 Aprendizados
 
-- ✅ Estruturação eficiente de HTML e CSS  
-- ✅ Melhores práticas para desenvolvimento web  
-- ✅ Uso de **Grid Layout** e **Flexbox**  
-- ✅ Criação de um layout responsivo  
+- ✅ Estruturação eficiente de HTML e CSS
+- ✅ Melhores práticas para desenvolvimento web
+- ✅ Uso de **Grid Layout** e **Flexbox**
+- ✅ Criação de um layout responsivo
 
 ## 📌 Próximos Passos
 
-- 🔹 Melhorar a acessibilidade  
-- 🔹 Implementar interatividade com **JavaScript** no futuro  
-- 🔹 Criar novas páginas e expandir o projeto  
+- 🔹 Melhorar a acessibilidade
+- 🔹 Implementar interatividade com **JavaScript** no futuro
+- 🔹 Criar novas páginas e expandir o projeto
 
 ## 📜 Licença
 
@@ -56,4 +56,4 @@ Este projeto foi criado para fins de estudo e aprendizado. Fique à vontade para
 
 ---
 
-💻 Desenvolvido por **Seu Nome** | [LinkedIn](https://www.linkedin.com/in/vinicius-lemos-a0aba5199/)
+💻 Desenvolvido por **Vinicius Lemos** | [LinkedIn](https://www.linkedin.com/in/vinicius-lemos-a0aba5199/)
